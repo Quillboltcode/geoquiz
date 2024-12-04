@@ -1,0 +1,29 @@
+@startuml
+actor Player
+actor GameMaster
+rectangle geoquiz{
+usecase "Play Game" as PlayGame
+usecase "Quit Game" as QuitGame
+usecase "View Score" as ViewScore
+usecase "View Correct Answers" as ViewAnswers
+usecase "Answer Question" as AnswerQuestion
+usecase "Create Game" as CreateGame
+usecase "Edit Question" as EditQuestion
+usecase "Add Question" as AddQuestion
+usecase "Delete Question" as DeleteQuestion
+}
+Player -- PlayGame
+Player -- QuitGame
+
+PlayGame ..> ViewScore : <<include>>
+PlayGame ..> ViewAnswers : <<include>>
+PlayGame ..> AnswerQuestion : <<include>>
+
+GameMaster -- CreateGame
+CreateGame ..> EditQuestion : <<include>>
+CreateGame ..> AddQuestion : <<include>>
+CreateGame ..> DeleteQuestion : <<include>>
+
+QuitGame <|-- ViewScore : <<extend>>
+
+@enduml

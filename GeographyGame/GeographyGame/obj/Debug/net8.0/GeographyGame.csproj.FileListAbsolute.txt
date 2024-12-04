@@ -1,0 +1,14 @@
+C:\Freelancing\Grenwich\1551-development\lab\cw\GeographyGame\GeographyGame\bin\Debug\net8.0\GeographyGame.exe
+C:\Freelancing\Grenwich\1551-development\lab\cw\GeographyGame\GeographyGame\bin\Debug\net8.0\GeographyGame.deps.json
+C:\Freelancing\Grenwich\1551-development\lab\cw\GeographyGame\GeographyGame\bin\Debug\net8.0\GeographyGame.runtimeconfig.json
+C:\Freelancing\Grenwich\1551-development\lab\cw\GeographyGame\GeographyGame\bin\Debug\net8.0\GeographyGame.dll
+C:\Freelancing\Grenwich\1551-development\lab\cw\GeographyGame\GeographyGame\bin\Debug\net8.0\GeographyGame.pdb
+C:\Freelancing\Grenwich\1551-development\lab\cw\GeographyGame\GeographyGame\obj\Debug\net8.0\GeographyGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Freelancing\Grenwich\1551-development\lab\cw\GeographyGame\GeographyGame\obj\Debug\net8.0\GeographyGame.AssemblyInfoInputs.cache
+C:\Freelancing\Grenwich\1551-development\lab\cw\GeographyGame\GeographyGame\obj\Debug\net8.0\GeographyGame.AssemblyInfo.cs
+C:\Freelancing\Grenwich\1551-development\lab\cw\GeographyGame\GeographyGame\obj\Debug\net8.0\GeographyGame.csproj.CoreCompileInputs.cache
+C:\Freelancing\Grenwich\1551-development\lab\cw\GeographyGame\GeographyGame\obj\Debug\net8.0\GeographyGame.dll
+C:\Freelancing\Grenwich\1551-development\lab\cw\GeographyGame\GeographyGame\obj\Debug\net8.0\refint\GeographyGame.dll
+C:\Freelancing\Grenwich\1551-development\lab\cw\GeographyGame\GeographyGame\obj\Debug\net8.0\GeographyGame.pdb
+C:\Freelancing\Grenwich\1551-development\lab\cw\GeographyGame\GeographyGame\obj\Debug\net8.0\GeographyGame.genruntimeconfig.cache
+C:\Freelancing\Grenwich\1551-development\lab\cw\GeographyGame\GeographyGame\obj\Debug\net8.0\ref\GeographyGame.dll

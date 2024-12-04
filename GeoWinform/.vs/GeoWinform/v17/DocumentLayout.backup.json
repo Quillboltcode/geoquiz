@@ -1,0 +1,95 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Freelancing\\Grenwich\\1551-development\\lab\\cw\\GeoWinform\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{065C1F3A-4B7F-4DC2-99C8-CBEBE750B448}|GeoWinform\\GeoWinform.csproj|c:\\freelancing\\grenwich\\1551-development\\lab\\cw\\geowinform\\geowinform\\gamecreation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{065C1F3A-4B7F-4DC2-99C8-CBEBE750B448}|GeoWinform\\GeoWinform.csproj|solutionrelative:geowinform\\gamecreation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{065C1F3A-4B7F-4DC2-99C8-CBEBE750B448}|GeoWinform\\GeoWinform.csproj|c:\\freelancing\\grenwich\\1551-development\\lab\\cw\\geowinform\\geowinform\\gamecreation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{065C1F3A-4B7F-4DC2-99C8-CBEBE750B448}|GeoWinform\\GeoWinform.csproj|solutionrelative:geowinform\\gamecreation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{065C1F3A-4B7F-4DC2-99C8-CBEBE750B448}|GeoWinform\\GeoWinform.csproj|c:\\freelancing\\grenwich\\1551-development\\lab\\cw\\geowinform\\geowinform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{065C1F3A-4B7F-4DC2-99C8-CBEBE750B448}|GeoWinform\\GeoWinform.csproj|solutionrelative:geowinform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{065C1F3A-4B7F-4DC2-99C8-CBEBE750B448}|GeoWinform\\GeoWinform.csproj|c:\\freelancing\\grenwich\\1551-development\\lab\\cw\\geowinform\\geowinform\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{065C1F3A-4B7F-4DC2-99C8-CBEBE750B448}|GeoWinform\\GeoWinform.csproj|solutionrelative:geowinform\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Gamecreation.cs",
+              "DocumentMoniker": "C:\\Freelancing\\Grenwich\\1551-development\\lab\\cw\\GeoWinform\\GeoWinform\\Gamecreation.cs",
+              "RelativeDocumentMoniker": "GeoWinform\\Gamecreation.cs",
+              "ToolTip": "C:\\Freelancing\\Grenwich\\1551-development\\lab\\cw\\GeoWinform\\GeoWinform\\Gamecreation.cs*",
+              "RelativeToolTip": "GeoWinform\\Gamecreation.cs*",
+              "ViewState": "AgIAAHcBAAAAAAAAAAAswIoBAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T07:26:25.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Gamecreation.cs [Design]",
+              "DocumentMoniker": "C:\\Freelancing\\Grenwich\\1551-development\\lab\\cw\\GeoWinform\\GeoWinform\\Gamecreation.cs",
+              "RelativeDocumentMoniker": "GeoWinform\\Gamecreation.cs",
+              "ToolTip": "C:\\Freelancing\\Grenwich\\1551-development\\lab\\cw\\GeoWinform\\GeoWinform\\Gamecreation.cs [Design]*",
+              "RelativeToolTip": "GeoWinform\\Gamecreation.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T07:22:51.175Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Freelancing\\Grenwich\\1551-development\\lab\\cw\\GeoWinform\\GeoWinform\\MainForm.cs",
+              "RelativeDocumentMoniker": "GeoWinform\\MainForm.cs",
+              "ToolTip": "C:\\Freelancing\\Grenwich\\1551-development\\lab\\cw\\GeoWinform\\GeoWinform\\MainForm.cs",
+              "RelativeToolTip": "GeoWinform\\MainForm.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAvwIQAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T07:08:16.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Freelancing\\Grenwich\\1551-development\\lab\\cw\\GeoWinform\\GeoWinform\\Program.cs",
+              "RelativeDocumentMoniker": "GeoWinform\\Program.cs",
+              "ToolTip": "C:\\Freelancing\\Grenwich\\1551-development\\lab\\cw\\GeoWinform\\GeoWinform\\Program.cs*",
+              "RelativeToolTip": "GeoWinform\\Program.cs*",
+              "ViewState": "AgIAANwCAAAAAAAAAAAowA8DAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T14:23:43.837Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
